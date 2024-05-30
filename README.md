@@ -1,4 +1,4 @@
-# Computer_Vision_classifier_regressor
+# Computer-Vision classifier regressor
 
 ## How to
 Clone this repository and explore the generation of **image data** and the use of **neuronal networks** on different tasks on these data in [Jupyter-Notebook](comparing_dense_to_conv_networks.ipynb).
